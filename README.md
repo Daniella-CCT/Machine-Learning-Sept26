@@ -18,7 +18,7 @@ This project predicts the risk level of a pregnancy (low, mid or high risk) from
 
 | File | Description |
 |---|---|
-| `CA1_Notebook.ipynb` | Jupyter notebook with all the code, charts and explanations |
+| `2026613_ DaniellaSilveira_CA1_M-Learning_Notebook.ipynb` | Jupyter notebook with all the code, charts and explanations |
 | `maternal_health_risk.csv` | Original dataset (unchanged) |
 | `README.md` | This file |
 
